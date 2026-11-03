@@ -6,13 +6,13 @@
 
 <br/>
 
-## 👋 Hi, I'm Ismail El Boudi
+## Hi, I'm Ismail El Boudi
 
 **Data Engineering student** at **ENSAO** (Data Science & Cloud Computing), based in Rabat, Morocco 🇲🇦
 
 I build data pipelines and asynchronous backend systems with Python, SQL, Airflow and Docker.
 
-📌 **Currently looking for a 4–6 month end-of-studies internship (PFE) in Data Engineering / Cloud Data, starting February 2027**, in France or Germany (internship agreement from my university available).
+ **Currently looking for a 4–6 month end-of-studies internship (PFE) in Data Engineering / Cloud Data, starting February 2027**, in France or Germany (internship agreement from my university available).
 
 <p>
   <a href="https://www.linkedin.com/in/ismail-el-boudi-0b4089410/"><img src="https://img.shields.io/badge/LinkedIn-Ismail%20El%20Boudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -21,7 +21,7 @@ I build data pipelines and asynchronous backend systems with Python, SQL, Airflo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Databases**
 
@@ -64,9 +64,9 @@ I build data pipelines and asynchronous backend systems with Python, SQL, Airflo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📈 TradingAgents SaaS Platform
+###  TradingAgents SaaS Platform
 `FastAPI` · `Next.js` · `Celery` · `Redis` · `PostgreSQL` · `Docker`
 
 A SaaS web product built around the open-source multi-agent LLM framework **TradingAgents**.
@@ -74,23 +74,23 @@ A SaaS web product built around the open-source multi-agent LLM framework **Trad
 - Long-running analyses executed asynchronously (Celery + Redis) so jobs never block the API
 - Multi-tenant PostgreSQL data model with quotas/credits and Stripe payments
 
-### 🌦️ Weather ETL Pipeline
+###  Weather ETL Pipeline
 `Airflow` · `PostgreSQL` · `Docker` · `Python`
 
 - Automated ETL pipeline with Apache Airflow for scheduled ingestion and storage of weather data in PostgreSQL
 - Full infrastructure containerized end to end with Docker Compose
 
-### 🗄️ Social Network Database Design
+###  Social Network Database Design
 `SQL` · `Oracle SQL` · `Data Modeling`
 
 - Relational schema designed in 3NF, with optimized queries and robust relational triggers
 
-### 🌱 AgrInvest *(team project)*
+###  AgrInvest *(team project)*
 - AI-driven agricultural investment platform connecting investors and Moroccan farmers
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Software / Data Engineer Intern: ZelvIT** · Rabat, Morocco · *Jul 2026 – Aug 2026*
 - Industrialized a distributed backend wrapping a multi-agent LLM engine (LangGraph) behind an execution facade (Engine Adapter)
@@ -105,31 +105,31 @@ A SaaS web product built around the open-source multi-agent LLM framework **Trad
 
 ---
 
-## 🏆 Hackathons & Competitions
+##  Hackathons & Competitions
 
 | Result | Event | Date |
 |---|---|---|
-| 🥇 **1st place** | DiNext'26 Hackathon, Faculty of Sciences, Oujda | May 2026 |
-| 🏅 **Top 10** | MIATHON'03, MIA Maroc / Mohammed I University (72-hour build & pitch) | May 2026 |
-| 🏅 **4th place** | Automate or Die Challenge, Tunis (IEEE), 170+ teams | Jul 2026 |
+|  **1st place** | DiNext'26 Hackathon, Faculty of Sciences, Oujda | May 2026 |
+|  **Top 10** | MIATHON'03, MIA Maroc / Mohammed I University (72-hour build & pitch) | May 2026 |
+|  **4th place** | Automate or Die Challenge, Tunis (IEEE), 170+ teams | Jul 2026 |
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 - **ENSAO** (National School of Applied Sciences, Oujda): Engineering Degree in **Data Science & Cloud Computing** · *Sept 2024 – Present*
   Data Engineering, Cloud Infrastructure, Advanced SQL, OLAP Cubes & Data Warehousing
 - **CPGE Salmane Al Farisi, Salé**: Preparatory Classes for Engineering Schools (TSI) · *2022 – 2024*
-- 📜 **Data Engineer Certificate**: DataCamp (April 2026)
+-  **Data Engineer Certificate**: DataCamp (April 2026)
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 Arabic (native) · French (B2) · English (B2)
 
 ---
 
-## 📫 Let's connect
+##  Let's connect
 
 I'm open to **Data Engineering / Cloud Data** internship opportunities for **February 2027**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ismail-el-boudi-0b4089410/) or by [email](mailto:elboudiismail8@gmail.com).
